@@ -1,0 +1,25 @@
+
+.card1 {
+	display: flex;
+	justify-content: center;
+}
+.card-text {
+	font-family: monospace;
+    font-style: italic;
+	color: plum;
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: powderblue;
+	color: black;
+}
+
+.btn-primary:hover{
+	background-color: plum;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
